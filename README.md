@@ -1,5 +1,5 @@
 # If you're interested in seeing Playwright QA Script in Action
-### Otherwise, please continue reading this for my workflow, thoughts, and Final Output
+
 1. Download and extract `sara-playwright-qa`
    ```
    curl -L -O https://github.com/cattelia/sara-playwright-qa/archive/refs/heads/main.zip
@@ -8,7 +8,8 @@
    ```
 3. Install node modules by running `npm i`
 4. Run `node index.js`
-
+   
+## Otherwise, please continue reading this for my workflow, thoughts, and Final Output
 ### Task: 
 Edit the `index.js` file in this project to go to Hacker News/newest and validate 
 that EXACTLY the first 100 articles are sorted from newest to oldest. 
