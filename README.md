@@ -1,4 +1,4 @@
-## Seeing Playwright QA Script in Action
+# Seeing Playwright QA Script in Action for Yourself
 1. Download and extract `sara-playwright-qa`
 2. Install node modules by running `npm i`
 3. Run `node index.js`
