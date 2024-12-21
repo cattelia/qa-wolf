@@ -300,12 +300,12 @@ Then I realised that I forgot how to read a clock for a second.
 Fixed that.
 
 # Final Output
-Of course, you will see me execute this but here we go:
+I download and extracted the code.
 ```bash
-$ ls
+~$ ls
 Q2.mp4  README.md  index.js  package-lock.json  package.json  playwright.config.js  sara_notes.md
 
-$ npm i
+~$ npm i
 
 added 5 packages, and audited 6 packages in 6s
 
@@ -316,10 +316,10 @@ npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.0.0
 npm notice To update run: npm install -g npm@11.0.0
 npm notice
 
-$ ls
+~$ ls
 Q2.mp4  README.md  index.js  node_modules  package-lock.json  package.json  playwright.config.js  sara_notes.md
 
-$ node index.js
+~$ node index.js
 Opening up Hacker News now.
 ---------------------------
 
