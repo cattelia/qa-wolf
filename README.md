@@ -1,3 +1,5 @@
+
+
 ### Task: 
 Edit the `index.js` file in this project to go to Hacker News/newest and validate 
 that EXACTLY the first 100 articles are sorted from newest to oldest. 
@@ -297,6 +299,24 @@ Fixed that.
 # Final Output
 Of course, you will see me execute this but here we go:
 ```bash
+$ ls
+Q2.mp4  README.md  index.js  package-lock.json  package.json  playwright.config.js  sara_notes.md
+
+$ npm i
+
+added 5 packages, and audited 6 packages in 6s
+
+found 0 vulnerabilities
+npm notice
+npm notice New major version of npm available! 10.9.2 -> 11.0.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.0.0
+npm notice To update run: npm install -g npm@11.0.0
+npm notice
+
+$ ls
+Q2.mp4  README.md  index.js  node_modules  package-lock.json  package.json  playwright.config.js  sara_notes.md
+
+$ node index.js
 Opening up Hacker News now.
 ---------------------------
 
