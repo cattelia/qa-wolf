@@ -1,4 +1,7 @@
-
+## Seeing Playwright QA Script in Action
+1. Download and extract `sara-playwright-qa`
+2. Install node modules by running `npm i`
+3. Run `node index.js`
 
 ### Task: 
 Edit the `index.js` file in this project to go to Hacker News/newest and validate 
